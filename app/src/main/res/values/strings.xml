@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Students List</string>
+    <string name="studentDetailsActivity_name">Student Details</string>
+    <string name="editStudentActivity_name">Edit Student</string>
+    <string name="newStudentActivity_name">New Student</string>
+    <string name="NameField">Name:</string>
+    <string name="IdField">id:</string>
+    <string name="phoneField">phone:</string>
+    <string name="addressField">address:</string>
+    <string name="checkedField">checked</string>
+    <string name="editBtn">Edit</string>
+    <string name="cancelBtn">Cancel</string>
+    <string name="saveBtn">Save</string>
+    <string name="deleteBtn">Delete</string>
+    <string name="studentImg">Student image</string>
+</resources>
